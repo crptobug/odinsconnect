@@ -1,2 +1,45 @@
-# odinsconnect
-Dating website for singles.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Odin Parents Connect</title>
+  <link rel="stylesheet" href="homepage.css"/>
+</head>
+<body>
+  <header class="navbar">
+    <div class="logo">OdinParentsConnect</div>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">How It Works</a>
+      <a href="#">Sign In</a>
+      <a class="btn" href="#">Join Free</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>Find Love & Connection with Fellow Single Parents</h1>
+    <p>Join a community that understands your journey. It’s free and easy to get started.</p>
+    <a class="btn" href="#">Get Started</a>
+  </section>
+
+  <section class="features">
+    <div class="feature">
+      <h3>Parent-Focused Profiles</h3>
+      <p>Connect with people who get what parenting is really like.</p>
+    </div>
+    <div class="feature">
+      <h3>Safe & Private</h3>
+      <p>Your information is protected and only visible to verified users.</p>
+    </div>
+    <div class="feature">
+      <h3>Real Connections</h3>
+      <p>More than dating—build lasting relationships with real people.</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 SingleParentsConnect. All rights reserved.</p>
+  </footer>
+</body>
+</html>
